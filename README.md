@@ -26,7 +26,8 @@ git clone https://github.com/Gladwelchelangat/flask-restful-api.git
 cd flask-restful-api
 ```
 
-2. Create a virtual environment (optional but recommended):
+2. Create a virtual environment (optional but recommended)
+
 On macos/linux:
 ```bash
 python -m venv venv
@@ -85,7 +86,5 @@ Contributions are welcome! To contribute, follow these steps:
 4. Write tests to cover your changes.
 5. Run the tests to ensure they pass.
 6. Submit a pull request.
-
-Please make sure to update the documentation and any relevant files if necessary.
 
 Thank you for your interest in contributing to this project!
