@@ -22,16 +22,20 @@ This is a simple Flask RESTful API application that manages users and their post
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/flask-restful-api.git
+git clone https://github.com/Gladwelchelangat/flask-restful-api.git
 cd flask-restful-api
 ```
 
 2. Create a virtual environment (optional but recommended):
-
+On macos/linux:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate 
 ```
+On Windows, use:
+```bash
+ `venv\Scripts\activate
+ ```
 
 3. Install dependencies:
 
